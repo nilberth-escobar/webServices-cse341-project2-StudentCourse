@@ -5,8 +5,8 @@ const doc = {
         title: 'Students and Courses API',
         description: 'API for managing student and course information',
     },
-    host: 'localhost:3000',
-    schemes: ['http', 'https'], 
+    host: 'webservices-cse341-project2-studentcourse.onrender.com',
+    schemes: ['https'], 
 };
 
 const outputFile = './swagger.json';
